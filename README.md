@@ -13,7 +13,7 @@ Follow the instructions to install the required environment and check the projec
 
 	(pmaienv)$ jupyter notebook dog_app.ipynb
 	
-**Note:** If you clone this repo, the necessary images are already in the repo, there is no need to download them. Therefore, you can omit steps 2, 3 and 4 of the instructions.
+**Note:** To re-train the network, you will need the necessary image files. Follow steps 2, 3 and 4 of the instructions to download them.
 	
 --------------------------------------------------------------------------------------------------------
 
