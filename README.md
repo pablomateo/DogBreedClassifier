@@ -5,7 +5,7 @@ AI - Convolutional Neural Network for Identifying Dog Breeds from images
 
 # CNN - Dog Breed Classifier
 
-This project is part of **Udacity´s Artificial Intelligence Nanodegree Program**. Here you will find my personal solution to the challenge. The following project can be run using a Local Machine or using an external GPU (Solution provided by **Amazon Web Services** is recommended). Next, you can follow Udacitys instructions to install the neccessary dependencies on a local machine or on AWS.
+This project is part of **Udacity´s Artificial Intelligence Nanodegree Program**. Here you will find my personal solution to the challenge. The following project can be run using a Local Machine or using an external GPU (Solution provided by **Amazon Web Services** is recommended). Next, you can follow Udacitys instructions to install the necessary dependencies on a local machine or on AWS.
 
 In this project, we train a **Convolutional Neural Network** to build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, the algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
 
@@ -13,7 +13,7 @@ Follow the instructions to install the required environment and check the projec
 
 	(pmaienv)$ jupyter notebook dog_app.ipynb
 	
-**Note:** If you clone this repo, the neccessary images are already in the repo, there is no need to download them. Therefore, you can omit steps 2, 3 and 4 of the instructions.
+**Note:** If you clone this repo, the necessary images are already in the repo, there is no need to download them. Therefore, you can omit steps 2, 3 and 4 of the instructions.
 	
 --------------------------------------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ cd dog-project
 
 3. Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/lfw`.  If you are using a Windows machine, you are encouraged to use [7zip](http://www.7-zip.org/) to extract the folder. 
 
-4. Donwload the [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset.  Place it in the repo, at location `path/to/dog-project/bottleneck_features`.
+4. Download the [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset.  Place it in the repo, at location `path/to/dog-project/bottleneck_features`.
 
 5. (Optional) __If you plan to install TensorFlow with GPU support on your local machine__, follow [the guide](https://www.tensorflow.org/install/) to install the necessary NVIDIA software on your system.  If you are using an EC2 GPU instance, you can skip this step.
 
