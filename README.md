@@ -1,5 +1,6 @@
 # DogBreedClassifier
 **Udacity - Artificial Intelligence Nanodegree Program**
+
 AI - Convolutional Neural Network for Identifying Dog Breeds from images
 
 # CNN - Dog Breed Classifier
