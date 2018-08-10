@@ -11,7 +11,7 @@ In this project, we train a **Convolutional Neural Network** to build a pipeline
 
 Follow the instructions to install the required environment and check the project:
 
-	(pmaienv)$ jupyter notebook dog_app.ipynb
+	(dog-project)$ jupyter notebook dog_app.ipynb
 	
 **Note:** To re-train the network, you will need the necessary image files. Follow steps 2, 3 and 4 of the instructions to download them.
 	
