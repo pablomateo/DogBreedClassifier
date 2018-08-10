@@ -1,5 +1,10 @@
+# Pablo Mateo Files
+.DS_Store
+__pycache__
+DogProject_PM.zip
+CODEOWNERS.*
+
 # Byte-compiled / optimized / DLL files
-__pycache__/
 *.py[cod]
 *$py.class
 
